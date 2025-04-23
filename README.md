@@ -1,7 +1,9 @@
 🕵️ Idle Watcher
+
 Idle Watcher est une application Windows qui vous permet de surveiller l'activité CPU d'un processus spécifique (par exemple Dofus) et de déclencher une alarme sonore en cas d'inactivité prolongée.
 
 🎯 Fonctionnalités
+
 Surveillance d’un processus spécifique via une recherche par nom (ex : dofus).
 
 Affichage de l'activité CPU en temps réel.
@@ -17,6 +19,7 @@ Alarme sonore personnalisable.
 Interface claire et intuitive avec affichage visuel de l’état.
 
 🔊 Alarme personnalisable
+
 Vous pouvez remplacer le fichier alarm_sound.wav par n'importe quel autre fichier .wav de votre choix. Il vous suffit :
 
 De le renommer en alarm_sound.wav.
